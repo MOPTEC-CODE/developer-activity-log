@@ -20,6 +20,18 @@ NOTE: Dev logs are now hosted on https://moptec.net/devlog.html
 
 * Developed with Wix.
 
+#### Tekworld Monsters Codex
+
+* Developed with React and Tailwind CSS.
+
+#### Where Are The Seams?
+
+* Developed with React
+
+#### Tic-Tac-React Tutorial
+
+* Developed with React.
+
 ### Game
 
 #### Revenge of the PETSCII Robots
